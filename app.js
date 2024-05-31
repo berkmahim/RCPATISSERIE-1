@@ -16,7 +16,7 @@ import conn from './db.js'
 
 dotenv.config()
 conn()
-const port = 3000
+const port = 10000
 const app = express()
 
 
